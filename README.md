@@ -4,7 +4,7 @@
 ---
 
 ## How to install?
-1. Download the zip
+1. [Download the zip](https://github.com/skynebula/convert-eps-to-pdf/raw/main/Convert%20EPS%20to%20PDF.workflow.zip)
 2. Unzip it
 3. Double-click on the "Convert EPS to PDF.workflow" file
 4. A pop-up window opens and asks for confirmation
