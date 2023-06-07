@@ -5,7 +5,7 @@
 1. Download the zip
 2. Unzip it
 3. Double-click on the "Convert EPS to PDF.workflow" file
-4. A pop-up window will open to ask for confirmation
+4. A pop-up window opens and asks for confirmation
 5. Click on "Install"
 
 ## How to use it?
