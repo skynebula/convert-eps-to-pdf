@@ -1,6 +1,8 @@
 # Convert EPS to PDF
 ### A simple macOS shortcut to convert EPS or PS files to PDF
 
+---
+
 ## How to install?
 1. Download the zip
 2. Unzip it
